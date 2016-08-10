@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a1d6e7fd-58e8-42c1-a944-83f31a887ccf" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.path_progress" afterPath="$PROJECT_DIR$/.path_progress" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about_array_assignment.rb" afterPath="$PROJECT_DIR$/about_array_assignment.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about_regular_expressions.rb" afterPath="$PROJECT_DIR$/about_regular_expressions.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about_arrays.rb" afterPath="$PROJECT_DIR$/about_arrays.rb" />
     </list>
     <ignored path="koans.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -66,11 +63,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="about_array_assignment.rb" pinned="false" current-in-tab="true">
+      <file leaf-file-name="about_array_assignment.rb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/about_array_assignment.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="90">
               <caret line="5" column="27" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="about_arrays.rb" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/about_arrays.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -107,12 +114,12 @@
         <option value="$PROJECT_DIR$/about_asserts.rb" />
         <option value="$PROJECT_DIR$/about_nil.rb" />
         <option value="$PROJECT_DIR$/about_objects.rb" />
-        <option value="$PROJECT_DIR$/about_arrays.rb" />
         <option value="$PROJECT_DIR$/about_hashes.rb" />
         <option value="$PROJECT_DIR$/about_strings.rb" />
         <option value="$PROJECT_DIR$/about_symbols.rb" />
         <option value="$PROJECT_DIR$/about_regular_expressions.rb" />
         <option value="$PROJECT_DIR$/about_array_assignment.rb" />
+        <option value="$PROJECT_DIR$/about_arrays.rb" />
       </list>
     </option>
   </component>
@@ -310,12 +317,12 @@
       <workItem from="1469522708582" duration="3729000" />
       <workItem from="1469582925832" duration="11964000" />
       <workItem from="1470579334545" duration="156000" />
-      <workItem from="1470634206585" duration="10308000" />
+      <workItem from="1470634206585" duration="10409000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26157000" />
+    <option name="totallyTimeSpent" value="26258000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="809" extended-state="6" />
@@ -567,14 +574,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/about_arrays.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="81" column="5" selection-start-line="81" selection-start-column="5" selection-end-line="81" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.path_progress">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -650,6 +649,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="5" column="27" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about_arrays.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
           <folding />
         </state>
       </provider>
