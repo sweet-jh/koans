@@ -7,12 +7,12 @@ class AboutArrays < Neo::Koan  #?????????????
     assert_equal 0, empty_array.size
   end
 
-  def test_array_literals###
-    array = Array.new###
-    assert_equal [], array###
+  def test_array_literals
+    array = Array.new
+    assert_equal [], array
 
-    array[0] = 1###
-    assert_equal [1], array###
+    array[0] = 1
+    assert_equal [1], array
 
     array[1] = 2
     assert_equal [1, 2], array
